@@ -1,6 +1,6 @@
-This directory contains admin user documentation for the ESP Website.
+This directory contains administrator documentation for the ESP Website.
 
 Useful guides:
 
-* `<program_modules.rst>`_ for module setup and operations.
+* `<program_modules.rst>`_ which explain module setup and operations.
 
